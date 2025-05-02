@@ -1,8 +1,8 @@
 ---
 title: "Deep Learning for Properties prediction based on 3D properties with "
 subtitle: "Subtitle"
-author: "Aymeric Hernandez "
-date: "DD Month, YYYY"
+author: "Aymeric Hernandez, Nay Chi Hnin Htut, Yuto Tsuruta"
+date: "02 May, 2025"
 output:
   pdf_document:
     toc: true
